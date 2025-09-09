@@ -80,7 +80,7 @@
   <project name="platform/external/xdelta3" path="external/xdelta3" revision="280cf4827c37fe3dd0f038536d28833154517e92"/>
   <project name="platform/external/yaffs2" path="external/yaffs2" revision="d333fc232d7e5ae3370080d5d6f7d88ea9c6b3a1"/>
   <project name="platform/external/zlib" path="external/zlib" revision="5f3215c8364c7699c16364a6d5857a47dc3a73ad"/>
-  <project name="FrostCoreAlt/android_frameworks_base" path="build" remote="github" revision="1-dot-1"/>
+  <project name="FrostCoreAlt/android_frameworks_base" path="frameworks/base" remote="github" revision="1-dot-1"/>
   <project name="platform/frameworks/opt/com.google.android" path="frameworks/opt/com.google.android" revision="79fd95531db9d1c630d6c86085c93b94295c83e1"/>
   <project name="platform/frameworks/opt/com.google.android.googlelogin" path="frameworks/opt/com.google.android.googlelogin" revision="81b3784540213b381c2f20e993cb3f9e416bb65a"/>
   <project name="platform/frameworks/policies/base" path="frameworks/policies/base" revision="fa8a26272edc7a135aceb56727644475d4ab1c28"/>
